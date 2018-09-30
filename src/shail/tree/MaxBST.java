@@ -1,6 +1,5 @@
 package shail.tree;
 
-//FIXME  - UNSOLVED
 public class MaxBST {
 
     public static void main(String args[])
